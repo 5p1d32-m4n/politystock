@@ -1,13 +1,6 @@
-# High level files
-politystock_venv/
-node_modules/
-
 # Compiled Python files
 __pycache__/
 *.py[cod]
-politystock_backend/politystock_backend/__pycache__
-politystock_backend/politystock_api/__pycache__
-politystock_backend/politystock_backend/__pycache__/settings.*
 
 # Virtual environment
 venv/
@@ -16,6 +9,9 @@ venv37/
 
 # Logs
 *.log
+
+# Local database
+db.sqlite3
 
 # Media uploads
 media/
