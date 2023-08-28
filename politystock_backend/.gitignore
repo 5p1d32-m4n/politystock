@@ -1,6 +1,7 @@
 # Compiled Python files
 __pycache__/
 *.py[cod]
+politystock_scraper/migrations
 
 # Virtual environment
 venv/
