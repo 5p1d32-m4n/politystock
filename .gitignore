@@ -8,7 +8,7 @@ __pycache__/
 politystock_backend/politystock_backend/__pycache__
 politystock_backend/politystock_api/__pycache__
 politystock_backend/politystock_backend/__pycache__/settings.*
-
+politystock_backend/politystock_backend/__pycache__/*
 # Virtual environment
 venv/
 venv37/
